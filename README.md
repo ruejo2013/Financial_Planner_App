@@ -54,6 +54,8 @@ See requirements.txt for list of all libaries used.
     conda activate <evn_name>
     git clone <link to repo>
     pip install -r requirements.txt 
+
+    <set up .evn with Alpaca api secret and access keys>
    
 ```
 
