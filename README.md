@@ -1,4 +1,4 @@
- Financial Planner Application
+ # Financial Planner Application
 
 ## Table of Contents
 
